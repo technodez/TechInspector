@@ -297,7 +297,7 @@ def index():
                     </a>
                     
                     <div class="d-flex align-items-center gap-3">
-                        <a href="https://github.com/TechNodeZ/TechInspector" target="_blank" class="btn btn-sm btn-github-star d-flex align-items-center gap-2 px-3 py-2">
+                        <a href="https://github.com/TechNodez/TechInspector" target="_blank" class="btn btn-sm btn-github-star d-flex align-items-center gap-2 px-3 py-2">
                             <i class="fa-solid fa-star"></i> Star on GitHub
                         </a>
 
